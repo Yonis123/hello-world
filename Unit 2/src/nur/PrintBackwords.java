@@ -1,5 +1,11 @@
 package nur;
-
+/**
+ * PrintBackwards
+ * This program prints the sentence inputed backwards
+ * April 21
+ *Author: Yonis Nur
+ *not enough time to finish capital letters 
+ */
 import java.util.Scanner;
 
 public class PrintBackwords {
